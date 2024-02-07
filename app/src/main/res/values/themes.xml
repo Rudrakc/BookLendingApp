@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinalBookApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowBackground">#ffffff</item>
+        <item name="android:statusBarColor">#ffffff</item>
+    </style>
+
+    <style name="Theme.FinalBookApp" parent="Base.Theme.FinalBookApp" />
+
+    <style name="Text">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="backgroung">
+        <item name="android:background">@color/white</item>
+    </style>
+    <style name="iconbg">
+        <item name="android:fillColor">@color/purple</item>
+    </style>
+
+    <style name="SubText">
+        <item name="android:textColor">#565154</item>
+    </style>
+    <style name="gradient">
+        <item name="android:background">@drawable/gradient_overlay</item>
+    </style>
+</resources>

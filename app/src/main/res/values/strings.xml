@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalBookApp</string>
+    <string name="title_home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="availability_text">AVAILABLE IN %d DAYS</string>
+    <string name="addBook">Add Book</string>
+    <string name="title_notifications">Profile</string>
+
+
+</resources>
